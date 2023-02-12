@@ -40,16 +40,6 @@ def eliminar3 (lista, eli):
         
 # print(eliminar3([20, 30, 40, 20, 5, 100, 5, 20], 20))
 
-def lstaytuple4 ():
-    i=input("Ingrese una secuencia de números: ")
-
-    a=[i]
-    b=(i)
-    print ("Lista: "+ str(a))
-    print ("Tupla: " + str (b))
-
-# lstaytuple4 ()
-
 def lytpla4():
     #Pedir al usuario:
     usu = input("Introduce una muestra de números separados por comas: ")
