@@ -31,4 +31,9 @@ opcion: Una variable que se utiliza para que el jugador pueda elegir entre inici
 13. **jugador_gana():** Una función que toma dos objetos Hand como argumentos (la mano del jugador y la mano del crupier), y muestra un mensaje indicando que el jugador ha ganado.
 14. **Deck.shuffle():** Una función que mezcla el mazo de cartas.
 15. **Deck.deal():** Una función que saca una carta del mazo.
-
+16. **Dealer.pierde():** Una función que toma dos objetos Hand como argumentos (la mano del jugador y la mano del crupier), y muestra un mensaje indicando que el dealer ha perdido.
+17. **Dealer.gana():** Una función que toma dos objetos Hand como argumentos (la mano del jugador y la mano del crupier), y muestra un mensaje indicando que el dealer ha ganado.
+18. **push():** Una función que toma dos objetos Hand como argumentos (la mano del jugador y la mano del crupier), y muestra un mensaje indicando que es un empate
+19.**while True** = empieza el juego
+20. **deck.shuffle ():** mezclar aleatoriamente el deck
+21. **.addcard():** agregar dos cartas a cada jugador
